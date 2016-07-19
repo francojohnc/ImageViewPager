@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageViewPager</string>
+    <string name="action_settings">Settings</string>
+</resources>
